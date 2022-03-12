@@ -16,6 +16,7 @@ Notes:
 - This notebook run in JupyterLab on Amazon SageMaker Studio.
 
 References:
+
 [1] Amazon S3. https://aws.amazon.com/s3/
 
 [2] Working with AWS S3 Buckets using Python & boto3. Guided Project. Coursera.
