@@ -1,4 +1,4 @@
-# Working-with-AWS-S3-Buckets-using-Python-boto3
+# Working-with-AWS-S3-buckets-using-Python-boto3
 
 AWS S3 stands for AWS Simple Storage Service and is one of the core services offered by Amazon Web Service (AWS). It's a storage location to images, videos, and data in general; and it's designed to offer industry-leading scalability, security, availability, and performance.
 
